@@ -12,4 +12,4 @@ Profile
 2. Email change
 3. Passwors change
 4. Field Validation
-5. Deleting an account
+5. Deleting an account.
