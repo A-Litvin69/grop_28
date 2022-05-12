@@ -1,0 +1,16 @@
+Registration
+1. Email
+2. Name
+3. Social network
+4. Field Validation
+Registration
+1. User is active
+2. User is not active
+3. Password recovery
+4. Field Validation
+Profile
+1. Name change
+2. Email change
+3. Passwors change
+4. Field Validation
+5. Deleting an account.
