@@ -1,7 +1,8 @@
 Registration
 1. Email
-2. Social network
-3. Field Validation
+2. Name
+3. Social network
+4. Field Validation
 Registration
 1. User is active
 2. User is not active
